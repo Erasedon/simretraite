@@ -6,13 +6,13 @@
             </div>
             <ul class="nav-links">
                 <li>
-                    <a href=""> Acceuil</a>
+                    <a href="acceuil"> Acceuil</a>
                 </li>
                 <li>
-                    <a href="#"> Préstation</a>
+                    <a href="#presentation"> Préstation</a>
                 </li>
                 <li>
-                    <a href="#"> Actualité</a>
+                    <a href="actualité"> Actualité</a>
                 </li>
                 <li>
                     <a href="template/contact.php"> Contact</a>
