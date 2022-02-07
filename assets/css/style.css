@@ -75,7 +75,7 @@ nav{
     align-items: center;
     width: 50%;
     transform: translateX(100%);
-    transition: transform 0.5s ease-in;
+    transition: transform 0s ease-in;
   }
   .nav-links li{
     opacity: 0;
@@ -191,4 +191,111 @@ nav{
   100% {
     background-positon-x: 0px;
   }
+}
+
+.container{
+  display:flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.contact-box{
+  width:50%;
+  background-color: red;
+  box-shadow: 0 0 20px 0 #999;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  position: absolute;
+}
+form{
+  margin: 35px;
+  display: flex;
+  flex-direction: column;
+}
+.input-field{
+  width: 400px;
+  height: 40px;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid rgba(101,178,198,0.6);
+  border-radius: 14px;
+  outline: none;
+}
+.textarea-field{
+  height: 150px;
+  padding-top: 10px;
+}
+.btn{
+  border-radius: 20px;
+  color:#fff;
+  margin-top: 18px;
+  padding:10px;
+  background-color: rgba(101,178,198,0.6);
+  font-size: 12px;
+  border: none;
+  cursor:pointer;
+}
+.evenement{
+  display: flex;
+  background-color:rgba(101,178,198,0.6); 
+  margin-top: 60px;
+  margin-bottom: 60px;
+  color: #fff;  
+  width: 50%;
+}
+
+.coord{
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 10px;
+}
+.map{
+  width: 80%;
+  height: 60%;
+}
+
+#back-top {
+  position: sticky;
+  font-size: 50px;
+  background-color: rgba(101,178,198,0.6);
+  backdrop-filter: blur(4px);
+  bottom: 0px; 
+  right:10px; 
+  width:50px;
+  height: 50px;
+  z-index: 10;
+  border-radius: 50%;
+}
+a#back-top:active {
+  background:none;
+}
+a#back-top {
+  display: block; 
+  text-decoration: none;
+}
+.topup {
+  bottom:5px;
+}
+#back-top i {
+  width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgba(101,178,198,0.6);
+}
+.grannybbw{
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+i{
+  z-index: 10;
+  border-radius: 50%;
+  color: #fff;
 }
