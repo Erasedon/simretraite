@@ -1,0 +1,8 @@
+#pie {
+  display: flex;
+  height: 440px;
+  justify-content: center;
+  align-items: center;
+  background-color: #65b2c6bd;
+}
+
