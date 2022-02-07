@@ -82,7 +82,7 @@ const mdr4=[{
   competence: 'modernité',
   val: 18,
 }]
-const mdr6=[{
+const mdr5=[{
   competence: 'accueil',
   val: 13,
 }, {
@@ -101,8 +101,27 @@ const mdr6=[{
   competence: 'modernité',
   val: 5,
 }]
+const mdr6=[{
+  competence: 'accueil',
+  val: 15,
+}, {
+  competence: 'activité',
+  val: 7,
+}, {
+  competence: 'relaction',
+  val: 7,
+}, {
+  competence: 'entretien',
+  val: 4,
+}, {
+  competence: 'rapidité',
+  val: 6,
+}, {
+  competence: 'modernité',
+  val: 5,
+}]
 
-list_mdr = [mdr1, mdr2, mdr3, mdr4, mdr6]
+list_mdr = [mdr1, mdr2, mdr3, mdr4, mdr5,mdr6]
 var dataSource = list_mdr[mdr_id]
 console.log(mdr_id)
 console.log(dataSource)

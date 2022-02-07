@@ -21,8 +21,13 @@
                 </div>
 
                 <div class="texto1">
-                    <h3 class="titr">Les cheaters boycott le dernier Battlefield</h3>
-                    <p class="tex">Suite aux nombreux bugs non résolu du jeux, les créateurs de cheat boycott Battlefield ce qui fait comprendre la mauvaise qualité du jeux.</p>
+                    <h3 class="titr">EHPAD La Martégale </h3>
+                    <p class="tex">Accompagnement fin de vie : Soins de fin de vie, Soins palliatifs
+Alzheimer : Accueil spécialisé Alzheimer,Pôle d'Activités et de Soins Adaptés (PASA), Unité de vie Alzheimer, Unité spécialisée Alzheimer, Unité Hébergement Renforcé (UHR)
+Approches non-médicamenteuses - Pôle sensoriel et de bien être
+Espace Snoezelen
+Services paramédicaux : Balnéothérapie, Diététique, Ergothérapie, Kinésithérapie, Orthophonie, Psychomotricité, Pédicure
+Soins infirmiers, de longue durée, quotidiens</p>
                 </div>
                 <div class="dx-viewport demo-container">
                 <div id="pie"></div>

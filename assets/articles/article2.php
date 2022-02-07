@@ -22,7 +22,8 @@
 
                 <div class="texto1">
                     <h3 class="titr">L'arrivé de Rekkles en EHpad    !!</h3>
-                    <p class="tex">Quelques temps après leur victoire en LFL et la perte de leur toplaner Adam, la KC revient avec un mercato de choix. En effet Rekkles a rejoint leur rang.</p>
+                    <p class="tex">Un personnel médical qualifié pour les maisons de retraite et les EHPAD comme EHPAD Jean Péridier
+Les maisons de retraite ou les EHPAD, catégories d’établissements dont fait partie EHPAD Jean Péridier, qui sont habilités à accueillir des résidents en situation de dépendance partielle ou totale, ont l’obligation de mettre à la disposition des personnes hébergées une grande variété de professionnels médicaux comme un médecin coordonnateur, des infirmières de jour (IDE), des aides-soignantes de jour et de nuit afin d’assurer les meilleures conditions d’une prise en charge sanitaire efficace. Les maisons de retraite et les EHPAD peuvent également être tout particulièrement adaptées et équipées pour accueillir les personnes dépendantes, parfois handicapées, incontinentes, semi-autonomes, ou bien encore atteintes de la maladie d’Alzheimer quand elles disposent d’un département spécialisé. L’établissement EHPAD Jean Péridier que vous avez présélectionné, vous informe sur toutes ses possibilités et les différentes catégories de personnel qu’il met à disposition de ses résidents dans la fiche d’information qui précède.</p>
                 </div>
                  <div class="dx-viewport demo-container">
                 <div id="pie"></div>

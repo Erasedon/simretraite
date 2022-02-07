@@ -21,8 +21,10 @@
                 </div>
 
                 <div class="texto1">
-                    <h3 class="titr">Les TOTY sont de sorties</h3>
-                    <p class="tex">Suite à une année des plus dure pour le football avec les conditions sanitaires et un ballon d'or plutôt partagé, qui ont été élus parmis les meilleur joueur chez Electronic Arts ?</p>
+                    <h3 class="titr">Korian la Pompignane</h3>
+                    <p class="tex">La maison de retraite médicalisée (EHPAD) Korian La Pompignane est située à proximité du centre-ville de Montpellier, à une dizaine de kilomètres de la plage. Elle assure l’accueil des séniors pour un court ou long séjour. Récemment rénové, l'établissement intègre quatre unités de vie protégées, destinées à la prise en charge des personnes atteintes de la maladie d'Alzheimer ou de troubles apparentés. Un personnel dédié et spécialement formé est affecté à ces unités.
+La résidence met en place divers ateliers thérapeutiques tels que des séances de lecture ou de musicothérapie pour divertir et stimuler les séniors. Les résidents peuvent également bénéficier de séances de kinésithérapie. La prise en charge est articulée autour de la démarche du Positive Care. Cette méthode est basée sur des soins individualisés et prend en compte la volonté, les habitudes et le rythme de vie des aînés. Ces derniers ont la possibilité de consulter l’équipe soignante de l’établissement, mais aussi de garder leur médecin traitant. Un(e) infirmier(ère) de nuit se tient à la disposition des résidents.
+La maison de retraite Korian La Pompignane dispose de deux terrasses ouvertes aux pensionnaires aussi bien l’hiver que l’été. Il compte 130 chambres personnalisables, soit 130 lits au total. Des services utiles au quotidien tels qu’une blanchisserie ainsi qu'un salon de coiffure et de beauté sont proposés par le centre. Les repas sont entièrement préparés sur place. Grâce à l’application Korian Générations, les aînés peuvent entretenir des relations intergénérationnelles. L'établissement a aménagé un parking privatif pour faciliter les visites des familles. Par ailleurs, des repas "invités" sont servis aux visiteurs. Les enfants ont le loisir de s’amuser dans l’aire de jeux dédiée.</p>
                 </div>
                 <div class="dx-viewport demo-container">
                 <div id="pie"></div>

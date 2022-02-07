@@ -24,11 +24,14 @@
                 </div>
 
                 <div class="texto1">
-                    <h3 class="titr">Microsoft achète Activision Blizzart !!</h3>
-                    <p class="tex">Après avoir achété Mojang, le géant Microsoft s'attaque maintenant à Activision Blizzart. La franchise en plein déclin se relèvera-t-elle ?</p>
-                    <p>Ce jeudi nous apprenons que Microsoft vient d'acheter Activision Blizzart ainsi que King (créateur de Candy Crush).</p>
-                    <p>Ces dernières années, Blizzart c'est retrouvé à plusieurs reprises mis en justice pour leurs problèmes au sein de l'entreprise.</p>
-                    <p>Ce rachat de la part de Microsoft va certainement changer la donne pour Blizzart après tout leurs problèmes au vue de l'envergure de celui-ci.</p>
+                    <h3 class="titr">La Maison de Retraite Maisonnée Lavalette</h3>
+                    <p class="tex">La Maison de Retraite Maisonnée Lavalette située au cœur de Montpellier (34) , à 10 min du centre-ville (en voiture),26 personnes peuvent être accueillies en EHPAD (secteur médicalisé)
+39 places en EHPA pour votre plus grand confort.
+Ainsi 65 Résidents dans un cadre hôtelier, adapté à la personne âgée.
+En effet, la Maison de Retraite bénéficie d’un cadre exceptionnel, entourée d’un très beau parc, d’une navette « centre-ville » à 100 mètres de l’établissement. La maison, très chaleureuse apporte convivialité, sérénité et sécurité à l’ensemble des résidents. L’ambiance y est familiale et très agréable.
+Divers services sont apportés chaque jour aux résidents : l’hébergement comprenant l’hygiène des chambres chaque jour, une restauration sur place où le chef cuisinier prépare chaque jour différentes saveurs, des animations tous les jours de la semaine avec des sorties extérieures puisque la maison de retraite possède un mini-bus, des soins médicaux réalisés par des infirmiers, enfin du personnel présent 24h/24h afin d’assurer un accompagnement personnalisé. Un personnel dynamique, compétent et attentif aux préoccupations de chacun des résidents réalise jour après jour, la prise en charge globale de chacun de nos aînés. Des valeurs fortes nous unissent chaque jour telles que : le respect, la dignité, l’accompagnement, l’écoute, la patience, la disponibilité. Nos sourires auprès des résidents, sont bel et bien le fer de lance de notre activité avant tout humaine.
+C’est un plaisir d’échanger avec vous au sein de cet établissement de l’ensemble de vos questions, préoccupations et d’entrevoir des solutions.
+.</p>
                 </div>
                  <div class="dx-viewport demo-container">
                 <div id="pie"></div>

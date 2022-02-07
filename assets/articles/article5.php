@@ -21,9 +21,9 @@
                 </div>
 
                 <div class="texto1">
-                    <h3 class="titr">Leak de la prochaine extension de WoW</h3>
+                    <h3 class="titr">EHPAD Résidence Les Monts d'Aurelle</h3>
                      
-                    <p class="tex">La prochaine extension de World of Warcraft aurai été leak et elle s'appellerai l'île des dragons.</p>
+                    <p class="tex">La Résidence Les Monts d'Aurelle, située dans le quartier Euromédecine, à proximité des hôpitaux et des facultés de Montpellier, vous offre un environnement de vie privilégié. Service hôtelier, restauration soignée et soins adaptésChambres individuelles, avec salle de bains, lit médicalisé, appel malade, téléphone, prise TV, Restauration à disposition des familles, Cuisine confectionnée sur place et possibilité d'accueillir les familles pour des repas ou évènements, Animations, Salon de coiffure, Pédicure, Esthétique, Salle de kinésithérapie, Espace Snoezelen, Salle de balnéothérapie, Espace réminiscence</p>
                 </div>
                 <div class="dx-viewport demo-container">
                 <div id="pie"></div>
@@ -59,7 +59,7 @@
                 </div>
 
                 <div class="texto1">
-                    <h3> Maison de retraite </h3>
+                    <h3> Maison de retraite 3</h3>
                 </div>
             </a>
 

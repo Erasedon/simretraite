@@ -21,8 +21,18 @@
                 </div>
 
                 <div class="texto1">
-                    <h3 class="titr">Nouvelle saison League of Legend</h3>
-                    <p class="tex">C'est la douzième saison de League of Legend qui arrive, et pour fêter cette arrivée quoi de mieux que d'ajouter quelque éléments de gameplay ? Nouveaux dragons, nouveaux items, nouvelle interface.</p>
+                    <h3 class="titr">Cité des Aînés - EHPAD - Groupe AÉSIO santé méditerranée</h3>
+                    <p class="tex">Le Groupe ACPPA : une offre de services pour l’autonomie et le grand âge
+
+Acteur de l’Autonomie et du Grand Age, le Groupe associatif ACPPA développe une mission globale en faveur des personnes âgées, dans l’objectif de préserver leur autonomie et de favoriser leur bien-être.
+
+Le Groupe ACPPA s’attache à faire évoluer son offre de services afin d’améliorer l’accompagnement personnalisé de nos ainés, dans une logique de parcours de vie de la personne âgée :
+
+- À domicile (Résidom) : accompagner les séniors pour leur assurer une qualité de vie en luttant contre l’isolement social
+
+- En établissement : proposer un accompagnement et des soins à travers un projet individualisé et en favorisant le maintien des liens sociaux.
+
+Le Groupe ACPPA rassemble des hommes et des femmes passionnés, guidés par leur professionnalisme et qui partagent des valeurs fortes. Implanté sur le territoire national, il emploie aujourd’hui plus de 2 500 collaborateurs qui accompagnent chaque jour plus de 6 500 personnes âgées.</p>
                 </div> 
                 <div class="dx-viewport demo-container">
                 <div id="pie"></div>
