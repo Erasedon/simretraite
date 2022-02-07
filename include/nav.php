@@ -2,7 +2,7 @@
         
         <nav>
             <div class="/logo">
-                <img src="/simretraite/assets/img/simretraite.png">
+                <img src="./assets/img/simretraite.png">
             </div>
             <ul class="nav-links">
                 <li>
