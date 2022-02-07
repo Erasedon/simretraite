@@ -16,7 +16,7 @@
         </div>
 
         <div class="press">
-            <a href="assets/articles/article1.html" target="_blank" class="press1">
+            <a href="assets/articles/article1.php" target="_blank" class="press1">
                 <div class="imaga">
                   <img src="assets/img/750800708-1.jpg" class="imaga1">
                 </div>
@@ -27,7 +27,7 @@
                 </div>
             </a>
 
-            <a href="assets/articles/article2.html" target="_blank" class="press1">
+            <a href="assets/articles/article2.php" target="_blank" class="press1">
                 <div class="imaga">
                     <img src="assets/img/infirmiere-maison-retraite-bonheur-main.jpg" class="imaga1">
                 </div>
@@ -38,7 +38,7 @@
                 </div>
             </a>
 
-            <a href="assets/articles/article3.html" target="_blank" class="press1">
+            <a href="assets/articles/article3.php" target="_blank" class="press1">
                 <div class="imaga">
                     <img src="assets/img/main.jpg" class="imaga1">
                 </div>
@@ -49,7 +49,7 @@
                 </div>
             </a>
 
-            <a href="assets/articles/article4.html" target="_blank" class="press1">
+            <a href="assets/articles/article4.php" target="_blank" class="press1">
                 <div class="imaga">
                     <img src="assets/img/orpea-en-espagneorpea.jpg" class="imaga1">
                 </div>
@@ -60,7 +60,7 @@
                 </div>
             </a>
 
-            <a href="assets/articles/article5.html" target="_blank" class="press1">
+            <a href="assets/articles/article5.php" target="_blank" class="press1">
                 <div class="imaga">
                     <img src="assets/images/Sans titre-5.jpg" class="imaga1">
                 </div>
@@ -72,7 +72,7 @@
                 </div>
             </a>
 
-            <a href="assets/articles/article6.html" target="_blank" class="press1">
+            <a href="assets/articles/article6.php" target="_blank" class="press1">
                 <div class="imaga">
                     <img src="assets/images/Sans titre-6.jpg" class="imaga1">
                 </div>

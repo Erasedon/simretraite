@@ -1,14 +1,15 @@
+<?php include '../../include/nav.php';?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/stylea.css">
-    <link rel="stylesheet" href="../css/stylest.css">
     <title>ARTICLES</title>
+     <link rel="stylesheet" href="../css/stylea.css">
+     <link rel="stylesheet" href="../css/stylest.css">
  <link rel='stylesheet' href='https://cdn3.devexpress.com/jslib/21.2.5/css/dx.common.css'>
-<link rel='stylesheet' href='https://cdn3.devexpress.com/jslib/21.2.5/css/dx.material.blue.dark.css'><link rel="stylesheet" href="./style.css">
+<link rel='stylesheet' href='https://cdn3.devexpress.com/jslib/21.2.5/css/dx.material.blue.dark.css'><link type="text/css" rel="stylesheet" href="../css/style.css">
 
 
 <body>
@@ -16,13 +17,12 @@
         <div class="artig">
             <div class="arti1">
                 <div class="imager">
-                    <img src="../assets/images/Sans titre-5.jpg" class="imager1">
+                    <img src="../img/750800708-1.jpg" class="imaga1">
                 </div>
 
                 <div class="texto1">
-                    <h3 class="titr">Leak de la prochaine extension de WoW</h3>
-                     
-                    <p class="tex">La prochaine extension de World of Warcraft aurai été leak et elle s'appellerai l'île des dragons.</p>
+                    <h3 class="titr">Les cheaters boycott le dernier Battlefield</h3>
+                    <p class="tex">Suite aux nombreux bugs non résolu du jeux, les créateurs de cheat boycott Battlefield ce qui fait comprendre la mauvaise qualité du jeux.</p>
                 </div>
                 <div class="dx-viewport demo-container">
                 <div id="pie"></div>
@@ -32,7 +32,7 @@
         </div>
 
         <div class="artid">
-            <a href="article1.html" class="arti2">
+            <a href="article1.php" class="arti2">
                 <div class="imager">
                     <img src="../assets/images/Sans titre-1.jpg" class="imager1">
                 </div>
@@ -42,7 +42,7 @@
                 </div>
             </a>
 
-            <a href="article2.html" class="arti2">
+            <a href="article2.php" class="arti2">
                 <div class="imager">
                    <img src="../img/750800708-1.jpg" class="imaga1">
                 </div>
@@ -52,17 +52,7 @@
                 </div>
             </a>
 
-            <a href="article3.html" class="arti2">
-                <div class="imager">
-                    <img src="../img/750800708-1.jpg" class="imaga1">
-                </div>
-
-                <div class="texto1">
-                    <h3> Maison de retraite </h3>
-                </div>
-            </a>
-
-            <a href="article4.html" class="arti2">
+            <a href="article4.php" class="arti2">
                 <div class="imager">
                    <img src="../img/750800708-1.jpg" class="imaga1">
                 </div>
@@ -72,7 +62,18 @@
                 </div>
             </a>
 
-            <a href="article6.html" class="arti2">
+            <a href="article5.php" class="arti2">
+                <div class="imager">
+                    <img src="../assets/images/Sans titre-5.jpg" class="imager1">
+                </div>
+
+                <div class="texto1">
+                  <h3> Maison de retraite 5</h3>
+                     
+                </div>
+            </a>
+
+            <a href="article6.php" class="arti2">
                 <div class="imager">
                     <img src="../assets/images/Sans titre-6.jpg" class="imager1">
                 </div>
@@ -98,3 +99,4 @@
   <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
 <script src='https://cdn3.devexpress.com/jslib/21.2.5/js/dx.all.js'></script><script  src="../js/donus.js"></script></body>
 </html>
+<?php include '../../include/footer.php';?>

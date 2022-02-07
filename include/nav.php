@@ -2,11 +2,11 @@
         
         <nav>
             <div class="/logo">
-                <img src="./assets/img/simretraite.png">
+                <img src="../img/simretraite.png">
             </div>
             <ul class="nav-links">
                 <li>
-                    <a href="#"> Acceuil</a>
+                    <a href=""> Acceuil</a>
                 </li>
                 <li>
                     <a href="#"> Préstation</a>
@@ -15,7 +15,7 @@
                     <a href="#"> Actualité</a>
                 </li>
                 <li>
-                    <a href="#"> Contact</a>
+                    <a href="template/contact.php"> Contact</a>
                 </li>
             </ul>
             <div class="burger">

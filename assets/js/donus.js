@@ -1,6 +1,6 @@
 //prendre le dernier caractère du lien
 var mdr_id = window.location.href;
-mdr_id = mdr_id.slice(-6)
+mdr_id = mdr_id.slice(-5)
 mdr_id = mdr_id.charAt(0);
 mdr_id -= 1
 

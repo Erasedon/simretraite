@@ -1,3 +1,4 @@
+<?php include '../../include/nav.php';?>
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -8,7 +9,7 @@
      <link rel="stylesheet" href="../css/stylea.css">
      <link rel="stylesheet" href="../css/stylest.css">
  <link rel='stylesheet' href='https://cdn3.devexpress.com/jslib/21.2.5/css/dx.common.css'>
-<link rel='stylesheet' href='https://cdn3.devexpress.com/jslib/21.2.5/css/dx.material.blue.dark.css'><link rel="stylesheet" href="./style.css">
+<link rel='stylesheet' href='https://cdn3.devexpress.com/jslib/21.2.5/css/dx.material.blue.dark.css'><link type="text/css" rel="stylesheet" href="../css/style.css">
 
 
 <body>
@@ -20,7 +21,7 @@
                 </div>
 
                 <div class="texto1">
-                    <h3 class="titr">L'arrivé de Rekkles chez Karmine !!</h3>
+                    <h3 class="titr">L'arrivé de Rekkles en EHpad    !!</h3>
                     <p class="tex">Quelques temps après leur victoire en LFL et la perte de leur toplaner Adam, la KC revient avec un mercato de choix. En effet Rekkles a rejoint leur rang.</p>
                 </div>
                  <div class="dx-viewport demo-container">
@@ -31,7 +32,7 @@
         </div>
 
         <div class="artid">
-            <a href="article1.html" class="arti2">
+            <a href="article1.php" class="arti2">
                 <div class="imager">
                     <img src="../assets/images/Sans titre-1.jpg" class="imager1">
                 </div>
@@ -40,7 +41,7 @@
                     <h3> Maison de retraite  1</h3>
                 </div>
             </a>
-            <a href="article3.html" class="arti2">
+            <a href="article3.php" class="arti2">
                 <div class="imager">
                     <img src="../img/750800708-1.jpg" class="imaga1">
                 </div>
@@ -49,7 +50,7 @@
                   <h3> Maison de retraite  3</h3>
                 </div>
             </a>
-            <a href="article4.html" class="arti2">
+            <a href="article4.php" class="arti2">
                 <div class="imager">
                    <img src="../img/750800708-1.jpg" class="imaga1">
                 </div>
@@ -59,7 +60,7 @@
                 </div>
             </a>
 
-            <a href="article5.html" class="arti2">
+            <a href="article5.php" class="arti2">
                 <div class="imager">
                     <img src="../assets/images/Sans titre-5.jpg" class="imager1">
                 </div>
@@ -70,7 +71,7 @@
                 </div>
             </a>
 
-            <a href="article6.html" class="arti2">
+            <a href="article6.php" class="arti2">
                 <div class="imager">
                     <img src="../assets/images/Sans titre-6.jpg" class="imager1">
                 </div>
@@ -97,3 +98,4 @@
     <script src='https://cdn3.devexpress.com/jslib/21.2.5/js/dx.all.js'></script><script  src="../js/donus.js"></script>
 </body>
 </html>
+ <?php include '../../include/footer.php';?>
