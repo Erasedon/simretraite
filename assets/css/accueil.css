@@ -1,4 +1,4 @@
-.img{
+.imgx{
     background-image: url("../img/couple.jpg"); 
     height: 300px;
     background-size: cover;
@@ -10,16 +10,16 @@
 
 .titre{
     margin:auto;
-    width: 400px;
+    width: 600px;
     border : 20px solid white;
     font-family: 'Poppins', sans-serif;
     color: white;
     font-size: 34px;
     text-align: center;
     background-color: #65b2c6;
-    height:50px;
+    height: 102px;
     vertical-align:middle;
-    line-height: 40px;
+    line-height: 66px;
 }
 
 .text{
@@ -44,16 +44,16 @@
 }
 .titre2{
     margin: auto;
-    width: 400px;
+    width: 420px;
     border : 20px solid white;
     font-family: 'Poppins', sans-serif;
     color: white;
     font-size: 34px;
     text-align: center;
     background-color: #65b2c6;
-    height: 50px;
+    height: 102px;
     vertical-align:middle;
-    line-height: 40px;
+    line-height: 66px;
 }
 
 #contenaire{

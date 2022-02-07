@@ -17,6 +17,7 @@
 <body>
     
     <?php include 'include/nav.php';?>
+   <?php include 'accueil.php';?>
     <?php include 'include/article.php';?>
     <?php include 'include/backtotop.php';?>
     <?php include 'include/footer.php';?>
