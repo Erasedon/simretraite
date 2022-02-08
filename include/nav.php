@@ -6,7 +6,7 @@
             </div>
             <ul class="nav-links">
                 <li>
-                    <a href="#acceuil"> Acceuil</a>
+                    <a href="../index.php"> Acceuil</a>
                 </li>
                 <li>
                     <a href="#prestation"> Préstation</a>
