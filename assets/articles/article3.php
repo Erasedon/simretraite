@@ -17,7 +17,7 @@
         <div class="artig">
             <div class="arti1">
                 <div class="imager">
-                    <img src="../img/750800708-1.jpg" class="imaga1">
+                <img src="../img/main.jpg" class="imaga1">
                 </div>
 
                 <div class="texto1">
@@ -39,7 +39,7 @@ Soins infirmiers, de longue durée, quotidiens</p>
         <div class="artid">
             <a href="article1.php" class="arti2">
                 <div class="imager">
-                    <img src="../assets/images/Sans titre-1.jpg" class="imager1">
+                <img src="../img/ftablette.jpg"  class="imaga1">
                 </div>
 
                 <div class="texto1">
@@ -49,7 +49,7 @@ Soins infirmiers, de longue durée, quotidiens</p>
 
             <a href="article2.php" class="arti2">
                 <div class="imager">
-                   <img src="../img/750800708-1.jpg" class="imaga1">
+                <img src="../img/infirmiere-maison-retraite-bonheur-main.jpg" class="imaga1">
                 </div>
 
                 <div class="texto1">
@@ -57,9 +57,9 @@ Soins infirmiers, de longue durée, quotidiens</p>
                 </div>
             </a>
 
-            <a href="article4.php" class="arti2">
+             <a href="article4.php" class="arti2">
                 <div class="imager">
-                   <img src="../img/750800708-1.jpg" class="imaga1">
+                  <img src="../img/orpea-en-espagneorpea.jpg" class="imaga1">
                 </div>
 
                 <div class="texto1">
@@ -69,7 +69,7 @@ Soins infirmiers, de longue durée, quotidiens</p>
 
             <a href="article5.php" class="arti2">
                 <div class="imager">
-                    <img src="../assets/images/Sans titre-5.jpg" class="imager1">
+                <img src="../img/ehpad.jpg" class="imager1">
                 </div>
 
                 <div class="texto1">
@@ -78,11 +78,10 @@ Soins infirmiers, de longue durée, quotidiens</p>
                 </div>
             </a>
 
-            <a href="article6.php" class="arti2">
-                <div class="imager">
-                    <img src="../assets/images/Sans titre-6.jpg" class="imager1">
+             <a href="article4.php" class="arti2">
+               <div class="imager">
+                <img src="../img/residence.jpg" class="imaga1">
                 </div>
-
                 <div class="texto1">
                     <h3> Maison de retraite 6 </h3>
                 </div>

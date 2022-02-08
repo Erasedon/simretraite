@@ -8,9 +8,9 @@
     <link rel="stylesheet" href="assets/css/stylea.css">
 </head>
 <body>
-
+ <div id='actualité'>
     <div class="article">
-        
+       
         <div class="soustitre">
             <h2 class="art">Listes des Maisons de retraites </h2>
         </div>
@@ -18,7 +18,7 @@
         <div class="press">
             <a href="assets/articles/article1.php" target="_blank" class="press1">
                 <div class="imaga">
-                  <img src="assets/img/750800708-1.jpg" class="imaga1">
+                <img src="assets/img/ftablette.jpg" class="imaga1">
                 </div>
 
                 <div class="text1">
@@ -84,7 +84,7 @@
             </a>
         </div>
     </div>
-       
+</div>
 </body>
 
 </html>
