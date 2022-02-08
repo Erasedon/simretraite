@@ -96,5 +96,10 @@
     
   <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
 <script src='https://cdn3.devexpress.com/jslib/21.2.5/js/dx.all.js'></script><script  src="../js/donus.js"></script></body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script src="../js/app.js"></script>
+    <script src="../js/button.js"></script>
 </html>
 <?php include '../../include/footer.php';?>

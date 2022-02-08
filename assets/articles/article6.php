@@ -94,8 +94,12 @@ La maison de retraite Korian La Pompignane dispose de deux terrasses ouvertes au
         </a>
     </div>
 
-    
-  <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
-<script src='https://cdn3.devexpress.com/jslib/21.2.5/js/dx.all.js'></script><script  src="../js/donus.js"></script></body>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+    <script src='https://cdn3.devexpress.com/jslib/21.2.5/js/dx.all.js'></script><script  src="../js/donus.js"></script>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    <script src="../js/app.js"></script>
+    <script src="../js/button.js"></script>
+</body>
 </html>
 <?php include '../../include/footer.php';?>
