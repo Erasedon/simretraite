@@ -9,7 +9,7 @@
                     <a href="#acceuil"> Acceuil</a>
                 </li>
                 <li>
-                    <a href="#presentation"> Préstation</a>
+                    <a href="#prestation"> Préstation</a>
                 </li>
                 <li>
                     <a href="#actualité"> Actualité</a>

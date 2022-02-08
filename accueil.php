@@ -15,7 +15,7 @@
 <body>
 
 
-    <div class="imgx">
+    <div id='acceuil' class="imgx">
     </div>
 
     <div class="titre">
@@ -33,14 +33,14 @@
             matériel informatique, et tous le numérique pour se divertir.
     </div>
 
-    <div class="couple">
+    <div id='prestation' class="couple">
     </div>
 
     <div class="titre2">
         <h1>Préstations</h1>
     </div>
 
-    <div id="contenaire">
+         <div id="contenaire">
 
         <div class="box1">
             <h1 id="titre3">Standard</h1>
@@ -78,6 +78,7 @@
             </ul>
         </div>
     </div>
+   
 
 </body>
 </html>
