@@ -136,9 +136,9 @@ h3 {
     justify-content: center;
     width: 200px;
     box-sizing: border-box;
-    background-color:black;
+    background-color:rgba(101,178,198,0.6);
     border-radius: 10px;
-    box-shadow: 0px 0px 15px 0px lightgray;
+    box-shadow: 0px 0px 10px 0px lightgray;
     text-decoration: none;
     color:white;
     transition: 250ms;
