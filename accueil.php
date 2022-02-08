@@ -43,38 +43,38 @@
     <div id="contenaire">
 
         <div class="box1">
-            <h1 id="titre3">LvL 1</h1>
+            <h1 id="titre3">Standard</h1>
             <ul>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
+                <li> Soin de confort </li>
+                <li> Acceuil standard </li>
+                <li> Suivi thérapeutique</li>
+                <li> Accés au wifi public </li>
+                
             </ul>
         </div>
 
         <div class="box2">
-            <h1 id="titre3">LvL 5</h1>
+            <h1 id="titre3"> Prenium</h1>
             <ul>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
+                <li> Soin de confort </li>
+                <li> Acceuil personalisé </li>
+                <li> Suivi thérapeutique </li>
+                <li> Accés au wifi sécurisé </li>
+                <li> Accés au pole informatique</li>
+                
             </ul>
         </div>
 
         <div class="box1">
-            <h1 id="titre3">LvL 10</h1>
+            <h1 id="titre3"> Delux</h1>
             <ul>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
-                <li>Élément</li>
+                <li> Soin de confort </li>
+                <li> Acceuil personalisé </li>
+                <li> Suivi thérapeutique </li>
+                <li> Accés au wifi sécurisé </li>
+                <li> Accés à  un ordi en chambre</li>
+                <li> Accés à  une console en chambre</li>
+                
             </ul>
         </div>
     </div>
